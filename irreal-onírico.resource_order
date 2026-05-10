@@ -4,10 +4,17 @@
     {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
     {"name":"Backgrounds","order":2,"path":"folders/Sprites/Backgrounds.yy",},
     {"name":"Elen","order":1,"path":"folders/Sprites/Elen.yy",},
+    {"name":"Helen","order":5,"path":"folders/Sprites/Helen.yy",},
     {"name":"Objetos","order":4,"path":"folders/Sprites/Objetos.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"AFAZERES","order":5,"path":"notes/AFAZERES/AFAZERES.yy",},
+    {"name":"obj_caixa","order":3,"path":"objects/obj_caixa/obj_caixa.yy",},
+    {"name":"obj_helen","order":2,"path":"objects/obj_helen/obj_helen.yy",},
     {"name":"obj_mesa","order":1,"path":"objects/obj_mesa/obj_mesa.yy",},
+    {"name":"spr_caixa","order":1,"path":"sprites/spr_caixa/spr_caixa.yy",},
+    {"name":"spr_elen_push","order":2,"path":"sprites/spr_elen_push/spr_elen_push.yy",},
     {"name":"spr_elen_walk","order":1,"path":"sprites/spr_elen_walk/spr_elen_walk.yy",},
+    {"name":"spr_helen_walk","order":1,"path":"sprites/spr_helen_walk/spr_helen_walk.yy",},
   ],
 }

@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"AFAZERES",
+  "name":"AFAZERES",
+  "parent":{
+    "name":"irreal-onírico",
+    "path":"irreal-onírico.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_caixa",
+  "eventList":[],
   "managed":true,
-  "name":"obj_player",
+  "name":"obj_caixa",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_elen_idle",
-    "path":"sprites/spr_elen_idle/spr_elen_idle.yy",
+    "name":"spr_caixa",
+    "path":"sprites/spr_caixa/spr_caixa.yy",
   },
   "spriteMaskId":null,
   "visible":true,
