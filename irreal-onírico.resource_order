@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":4,"path":"folders/Objects.yy",},
+    {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
+    {"name":"Backgrounds","order":2,"path":"folders/Sprites/Backgrounds.yy",},
+    {"name":"Elen","order":1,"path":"folders/Sprites/Elen.yy",},
+    {"name":"Objetos","order":4,"path":"folders/Sprites/Objetos.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_mesa","order":1,"path":"objects/obj_mesa/obj_mesa.yy",},
+    {"name":"spr_elen_walk","order":1,"path":"sprites/spr_elen_walk/spr_elen_walk.yy",},
+  ],
+}
