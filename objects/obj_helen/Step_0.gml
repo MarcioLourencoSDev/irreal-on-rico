@@ -1,8 +1,6 @@
 // Pego o angulo de onde estou para o player
 var _dir = point_direction(x, y, obj_player.x, obj_player.y);
 
-// Atribuo um valor baseado na direção (criando assim o movimento)
-
 
 // Se o Player estiver parado ele corre 
 if(obj_player.estado_atual == states.idle) {
